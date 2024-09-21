@@ -1,3 +1,4 @@
+package CosntantesEVariaveis;
 public class TiposdeVariaveis {
     
     public static void main(String[] args) {

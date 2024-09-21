@@ -1,3 +1,4 @@
+package CosntantesEVariaveis;
 public class DeclarandoVariaveis {
     public static void main(String[] args) throws Exception {
         

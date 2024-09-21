@@ -1,3 +1,4 @@
+package CosntantesEVariaveis;
 public class DeclarandoConstantes {
       
     public static void main(String[] args){
